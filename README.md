@@ -1,1 +1,1 @@
-#Useful Codes for PRML(Pattern Recognition and Machine Learning) by Chris Bishop
+Useful Codes for PRML(Pattern Recognition and Machine Learning) by Chris Bishop
